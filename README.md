@@ -23,6 +23,7 @@ Abaixo está a lista de cursos que concluí. Atualmente são `29` cursos, totali
 
 #### Python & Desenvolvimento Web (Django/Flask)
 
+- Python Impressionador. _Escola: [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)._ _Carga horária: 122h._ :paperclip: [certificado](https://portalhashtag.com/certificado-hashtag/1728686793862x204096904424115420)
 - Praticando Python: estruturas de dados. _Escola: [Alura](https://www.alura.com.br/)._ _Carga horária: 4h._ :paperclip: [certificado](https://cursos.alura.com.br/certificate/46f2ab53-e675-4829-99c2-a76b8428bc6f?lang=pt_BR)
 - Python e TDD: explorando testes unitários. _Escola: [Alura](https://www.alura.com.br/)._ _Carga horária: 8h._ :paperclip: [certificado](https://cursos.alura.com.br/certificate/ad91b6c8-da16-43fb-b84c-50413b22d8b6?lang=pt_BR)
 - Python: aplicando a Orientação a Objetos. _Escola: [Alura](https://www.alura.com.br/)._ _Carga horária: 6h._ :paperclip: [certificado](https://cursos.alura.com.br/certificate/553e4996-16c4-4a5f-86a6-4b5deecc7fd4?lang=pt_BR)
@@ -50,6 +51,7 @@ Abaixo está a lista de cursos que concluí. Atualmente são `29` cursos, totali
 
 #### DevOps & Infraestrutura
 
+- AWS Impressionador. _Escola: [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)._ _Carga horária: 122h._ :paperclip: [certificado](https://portalhashtag.com/certificado-hashtag/1764976299131x603206574518846000)
 - Docker: construindo imagens para produção. _Escola: [Alura](https://www.alura.com.br/)._ _Carga horária: 8h._ :paperclip: [certificado](https://cursos.alura.com.br/certificate/930df4b6-5076-4f0f-9c9d-b94af464e344?lang=pt_BR)
 - Docker: criando e gerenciando containers. _Escola: [Alura](https://www.alura.com.br/)._ _Carga horária: 10h._ :paperclip: [certificado](https://cursos.alura.com.br/certificate/8405596d-042e-423d-bb5c-292bdfbefecf?lang=pt_BR)
 - Git e GitHub: compartilhando e colaborando em projetos. _Escola: [Alura](https://www.alura.com.br/)._ _Carga horária: 8h._ :paperclip: [certificado](https://cursos.alura.com.br/certificate/535e995f-f60f-4760-ac17-eb37da633a59?lang=pt_BR)
