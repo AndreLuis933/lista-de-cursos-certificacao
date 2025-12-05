@@ -19,7 +19,7 @@ Repositório reservado para listar um pouco da minha `vida acadêmica`. :heart_e
 
 ## Cursos <a name="cursos"></a> :pencil2:
 
-Abaixo está a lista de cursos que concluí. Atualmente são `29` cursos, totalizando `252 horas.`
+Abaixo está a lista de cursos que concluí. Atualmente são `31` cursos, totalizando `397 horas.`
 
 #### Python & Desenvolvimento Web (Django/Flask)
 
@@ -51,7 +51,7 @@ Abaixo está a lista de cursos que concluí. Atualmente são `29` cursos, totali
 
 #### DevOps & Infraestrutura
 
-- AWS Impressionador. _Escola: [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)._ _Carga horária: 122h._ :paperclip: [certificado](https://portalhashtag.com/certificado-hashtag/1764976299131x603206574518846000)
+- AWS Impressionador. _Escola: [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)._ _Carga horária: 23h._ :paperclip: [certificado](https://portalhashtag.com/certificado-hashtag/1764976299131x603206574518846000)
 - Docker: construindo imagens para produção. _Escola: [Alura](https://www.alura.com.br/)._ _Carga horária: 8h._ :paperclip: [certificado](https://cursos.alura.com.br/certificate/930df4b6-5076-4f0f-9c9d-b94af464e344?lang=pt_BR)
 - Docker: criando e gerenciando containers. _Escola: [Alura](https://www.alura.com.br/)._ _Carga horária: 10h._ :paperclip: [certificado](https://cursos.alura.com.br/certificate/8405596d-042e-423d-bb5c-292bdfbefecf?lang=pt_BR)
 - Git e GitHub: compartilhando e colaborando em projetos. _Escola: [Alura](https://www.alura.com.br/)._ _Carga horária: 8h._ :paperclip: [certificado](https://cursos.alura.com.br/certificate/535e995f-f60f-4760-ac17-eb37da633a59?lang=pt_BR)
